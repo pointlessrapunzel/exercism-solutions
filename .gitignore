@@ -2,3 +2,5 @@ node_modules
 .exercism
 __pycache__
 .venv
+.gradle
+java/*/build
