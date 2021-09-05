@@ -4,3 +4,4 @@ __pycache__
 .venv
 .gradle
 java/*/build
+java/*/bin
