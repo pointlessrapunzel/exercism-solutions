@@ -1,7 +1,14 @@
-node_modules
 .exercism
+
+# ignore unnecessary JS files
+node_modules
+
+# ignore unnecessary Python files
 __pycache__
 .venv
+
+# ignore unnecessary Java files
 .gradle
 java/*/build
 java/*/bin
+java/*/.*
